@@ -1,0 +1,189 @@
+* {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-family: "Arsenal", sans-serif;
+}
+
+.menu {
+    height: 100px;
+    background-color: #112244;
+    display: flex;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+}
+
+li {
+    padding-right: 25%;
+    color: #ffffff;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 1.2vw;
+}
+
+
+li :hover {
+    color: #FF7B00;
+    border-bottom: 3px solid #FF7B00;
+    padding-bottom: 25px;
+}
+
+.menu img {
+    height: 90%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 25px;
+}
+
+#atual {
+    color: #FF7B00;
+}
+
+.news {
+    width: 33.3%;
+    background-color: yellow;
+}
+
+.bloco1 {
+    display: flex;
+}
+
+.news img , .news h2 {
+    width: 85%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.news h2 {
+    width: 80%;
+    margin-left: 5%;
+    text-decoration: none;
+}
+
+.news a {
+     text-decoration: none;
+    color: black; 
+    text-align: center;
+}
+
+.news figcaption {
+
+    font-size: 14px;
+    color: rgb(156, 8, 8);
+    margin-top: 2px;
+    font-style: italic;
+    text-align: center;
+}
+
+
+.news2 {
+    width: 33.3%;
+    
+}
+
+.news2 img, .news2 h2 {
+    width: 85%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.news2 a{
+    text-decoration: none;
+    color: black; 
+    text-align: center;
+}
+.news2 figcaption {
+
+    font-size: 14px;
+    color: rgb(156, 8, 8);
+    margin-top: 2px;
+    font-style: italic;
+    text-align: center;
+}
+
+.news3 {
+    width: 33.3%;
+   
+}
+.news3 figcaption{
+        font-size: 14px;
+    color: rgb(156, 8, 8);
+    margin-top: 2px;
+    font-style: italic;
+    text-align: center;
+
+}
+
+.news3 a{
+    text-decoration: none;
+    color: black; 
+    text-align: center;
+}
+.news3 img, .news3 h2 {
+    width: 85%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+
+
+.bloco2 {
+    display: flex;
+}
+
+.news4 {
+    width: 50%;
+   
+}
+
+.news4 figcaption{
+        font-size: 14px;
+    color: rgb(156, 8, 8);
+    margin-top: 2px;
+    font-style: italic;
+    text-align: center;
+
+}
+.news4 a{
+    text-decoration: none;
+    color: black; 
+    text-align: center;
+}
+.news4 img , .news4 h2{
+     width: 90%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+
+.news5 {
+    width: 50%;
+   
+}
+.news5 figcaption{
+        font-size: 14px;
+    color: rgb(156, 8, 8);
+    margin-top: 2px;
+    font-style: italic;
+    text-align: center;
+
+}
+.news5 a{
+    text-decoration: none;
+    color: black; 
+    text-align: center;
+}
+.news5 img, .news5 h2 {
+     width: 90%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
